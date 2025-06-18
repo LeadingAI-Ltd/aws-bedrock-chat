@@ -70,7 +70,7 @@
     "enableRagReplicas": false,
     "enableBedrockCrossRegionInference": true,
     "enableLambdaSnapStart": false,
-    "enableBotStore": false,
+    "enableBotStore": true,
     "enableBotStoreReplicas": false,
     "botStoreLanguage": "en",
     "tokenValidMinutes": 30,
